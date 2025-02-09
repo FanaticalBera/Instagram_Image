@@ -1,6 +1,5 @@
 streamlit 
 instaloader
-os
 zipfile
 tempfile
 shutil
