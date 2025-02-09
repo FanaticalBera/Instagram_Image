@@ -3,6 +3,5 @@ instaloader
 zipfile
 tempfile
 shutil
-datetime
 requests
 BytesIO
